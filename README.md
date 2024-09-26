@@ -1,0 +1,7 @@
+- 👋 Hi, I’m João Ribeiro
+- 👀 I’m interested in automated tests
+- 🌱 I’m currently learning Cypress and Playwright
+- 💞️ I’m looking to collaborate in projects with test automation
+- 📫 How to reach me:
+- 📧 ja1pribeiros@gmail.com
+- 📱 +55 86 981909149
